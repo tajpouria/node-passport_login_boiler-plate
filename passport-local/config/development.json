@@ -1,0 +1,7 @@
+{
+  "database": {
+    "mongodb": {
+      "uri": "mongodb://localhost/local-passport-boilerPlate"
+    }
+  }
+}
